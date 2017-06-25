@@ -1,6 +1,14 @@
 #### 此项目已不再维护
 
 我从人人离职后，已不再维护小黄鸡项目，现在线上使用的代码也不再和此仓库一致。
+**这是原作者的声明, 我把它的一部分从py2该到py3了**
+- print
+- except
+- timeout
+- commands --> subprocess
+- urllib2 --> urllib
+
+
 
 ### [人人网小黄鸡](http://www.renren.com/601621937)
 
